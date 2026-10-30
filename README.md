@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Antonio !👋
 
+* 🎓 Undergraduate student at the **Faculty of Industrial Engineering and Robotics (UPB)**, specializing in *Applied Computer Science in Industrial Engineering*.
+* 💻 Passionate about software development, mechanical engineering, 3D modeling, and automation.
+* 🚀 I love building practical solutions that combine software with hardware or technical design.
 <!--
 **Nutdope/Nutdope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
